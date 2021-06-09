@@ -1,3 +1,3 @@
 <header>
-    <h1>My Movies</h1>
+    <h1 class="text-center">My Movies</h1>
 </header>
